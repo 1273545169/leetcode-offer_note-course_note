@@ -20,9 +20,9 @@
  
  ### 二分查找
  
- - [二分查找扩展](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E6%89%A9%E5%B1%95.md)
+ - [跳过 二分查找扩展](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E6%89%A9%E5%B1%95.md)
   
- - [数字在排序数组中出现的次数](https://github.com/1273545169/offer-note/blob/master/%E6%95%B0%E5%AD%97%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.md)
+ - [跳过 数字在排序数组中出现的次数](https://github.com/1273545169/offer-note/blob/master/%E6%95%B0%E5%AD%97%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.md)
  
 ### 规律题
   
