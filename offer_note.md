@@ -16,7 +16,7 @@
  
  - [数组中重复的数](https://github.com/1273545169/offer-note/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0.md)
  
- - [旋转数组中最小数字](https://github.com/1273545169/offer-note/blob/master/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md)
+ - [leetcode 寻找旋转排序数组中的最小值](https://github.com/1273545169/offer-note/blob/master/153.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.md)
  
  ### 二分查找
  
