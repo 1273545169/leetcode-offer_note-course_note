@@ -57,7 +57,7 @@
 
  - [226. 翻转二叉树](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
 
- - [617. 合并二叉树](https://github.com/1273545169/Leetcode/blob/master/617.%20%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91)
+ - [617. 合并二叉树](https://github.com/1273545169/Leetcode/blob/master/617.%20%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md)
  
  ### 栈、队列、堆
  
