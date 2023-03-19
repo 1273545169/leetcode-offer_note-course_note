@@ -54,15 +54,11 @@
 
 ### 二叉树问题
 
-- [二叉树的遍历](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86.md)
-
 - [二叉树的后继节点](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E7%BB%A7%E8%8A%82%E7%82%B9.md)
 
 - [二叉树的序列化与反序列化](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
 
 - [平衡二叉树](https://github.com/1273545169/Course_notes/blob/master/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
-
-- [搜索二叉树](https://github.com/1273545169/Course_notes/blob/master/%E6%90%9C%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 - [完全二叉树](https://github.com/1273545169/Course_notes/blob/master/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
