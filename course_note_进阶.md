@@ -22,6 +22,4 @@
  
  - [最大二叉搜索树的大小](https://github.com/1273545169/course_note/blob/master/%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%A4%A7%E5%B0%8F.md)
  
- - [二叉树最远距离](https://github.com/1273545169/course_note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E8%BF%9C%E8%B7%9D%E7%A6%BB.md)
- 
  - [员工活跃度](https://github.com/1273545169/course_note/blob/master/%E5%91%98%E5%B7%A5%E6%B4%BB%E8%B7%83%E5%BA%A6.md)
