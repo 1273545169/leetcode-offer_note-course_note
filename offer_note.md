@@ -56,9 +56,7 @@
   - [树的子结构](https://github.com/1273545169/offer-note/blob/master/%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)
  
   - [二叉树中和为某一值的路径](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84.md)
-  
-  - [把二叉树打印成多行](https://github.com/1273545169/offer-note/blob/master/%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.md)
-  
+    
   - [按之字顺序打印二叉树](https://github.com/1273545169/offer-note/blob/master/%E6%8C%89%E4%B9%8B%E5%AD%97%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
   
   
