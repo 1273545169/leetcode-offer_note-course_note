@@ -41,14 +41,9 @@
  
  
 ### 链表
- - [leetcode 从尾到头打印链表](https://github.com/1273545169/offer-note/blob/master/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
-  
-  - [leetcode 合并两个有序链表](https://github.com/1273545169/offer-note/blob/master/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
-  
+
  - [删除链表中的重复节点](https://github.com/1273545169/offer-note/blob/master/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E8%8A%82%E7%82%B9.md)
  
- - [leetcode 链表中倒数第k个节点](https://github.com/1273545169/offer-note/blob/master/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
-
   
  ### 二叉树
   
