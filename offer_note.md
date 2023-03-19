@@ -38,12 +38,7 @@
  - [左旋转字符串](https://github.com/1273545169/offer-note/blob/master/%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
  
  - [字符串分组](https://github.com/1273545169/offer-note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%88%86%E7%BB%84.md)
- 
- 
-### 链表
-
- - [删除链表中的重复节点](https://github.com/1273545169/offer-note/blob/master/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E8%8A%82%E7%82%B9.md)
- 
+  
   
  ### 二叉树
   
