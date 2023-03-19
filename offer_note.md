@@ -47,8 +47,6 @@
   
  ### 二叉树
   
-  - [二叉树的镜像](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
-  
   - [重建二叉树](https://github.com/1273545169/offer-note/blob/master/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)
   
   - [二叉搜索树和双向链表](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E5%92%8C%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
