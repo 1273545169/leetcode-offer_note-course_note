@@ -21,6 +21,12 @@
 
 ### 链表
 
+ - [从尾到头打印链表](https://github.com/1273545169/offer-note/blob/master/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
+  
+  - [合并两个有序链表](https://github.com/1273545169/offer-note/blob/master/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+
+ - [链表中倒数第k个节点](https://github.com/1273545169/offer-note/blob/master/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+
  - [2、反转链表 II](https://github.com/1273545169/Leetcode/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
  
  - [23、合并K个排序链表](https://github.com/1273545169/Leetcode/blob/master/%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
