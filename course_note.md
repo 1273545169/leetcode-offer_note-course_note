@@ -38,17 +38,7 @@
 
 ### 链表问题
 
-- [反转单向或双向链表](https://github.com/1273545169/Course_notes/blob/master/%E5%8F%8D%E8%BD%AC%E5%8D%95%E5%90%91%E6%88%96%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
-
-- [打印两个有序链表的公共部分](https://github.com/1273545169/Course_notes/blob/master/%E6%89%93%E5%8D%B0%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8%E7%9A%84%E5%85%AC%E5%85%B1%E9%83%A8%E5%88%86.md)
-
-- [链表是否为回文结构](https://github.com/1273545169/Course_notes/blob/master/%E9%93%BE%E8%A1%A8%E6%98%AF%E5%90%A6%E4%B8%BA%E5%9B%9E%E6%96%87%E7%BB%93%E6%9E%84.md)
-
-- [单向链表分组问题/分隔链表](https://github.com/1273545169/Course_notes/blob/master/%E9%93%BE%E8%A1%A8%E5%88%86%E7%BB%84.md)
-
 - [链表复制](https://github.com/1273545169/Course_notes/blob/master/%E5%A4%8D%E5%88%B6%E5%90%AB%E6%9C%89%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.md)
-
-- [链表有环问题](https://github.com/1273545169/Course_notes/blob/master/%E9%93%BE%E8%A1%A8%E6%9C%89%E7%8E%AF%E9%97%AE%E9%A2%98.md)
 
 - [两个链表相交问题](https://github.com/1273545169/Course_notes/blob/master/%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4%E9%97%AE%E9%A2%98.md)
 
