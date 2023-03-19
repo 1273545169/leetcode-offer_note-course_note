@@ -47,8 +47,6 @@
   
  ### 二叉树
   
-  - [重建二叉树](https://github.com/1273545169/offer-note/blob/master/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)
-  
   - [二叉搜索树和双向链表](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E5%92%8C%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
   
   - [二叉搜索树的后序遍历序列](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md)
