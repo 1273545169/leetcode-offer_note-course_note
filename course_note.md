@@ -47,10 +47,6 @@
 - [二叉树的后继节点](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E7%BB%A7%E8%8A%82%E7%82%B9.md)
 
 - [二叉树的序列化与反序列化](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
-
-- [完全二叉树](https://github.com/1273545169/Course_notes/blob/master/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91.md)
-
-- [完全二叉树的节点个数](https://github.com/1273545169/Course_notes/blob/master/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E6%95%B0.md)
  
 - [折纸问题](https://github.com/1273545169/Course_notes/blob/master/%E6%8A%98%E7%BA%B8%E9%97%AE%E9%A2%98.md)
 
