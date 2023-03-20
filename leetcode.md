@@ -53,6 +53,12 @@
  
  - [98、搜索二叉树](https://github.com/1273545169/Course_notes/blob/master/%E6%90%9C%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
+- [完全二叉树](https://github.com/1273545169/Course_notes/blob/master/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
+- [完全二叉树的节点个数](https://github.com/1273545169/Course_notes/blob/master/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E6%95%B0.md)
+
+ - [114. 二叉树展开为链表](https://github.com/1273545169/Leetcode/blob/master/114.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md)
+
  - [二叉树的深度](https://github.com/1273545169/offer-note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
 
  - [二叉树的直径](https://github.com/1273545169/course_note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)
@@ -64,8 +70,6 @@
  - [617. 合并二叉树](https://github.com/1273545169/Leetcode/blob/master/617.%20%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
  - [101. 对称二叉树](https://github.com/1273545169/Leetcode/blob/master/101.%20%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
-
- - [114. 二叉树展开为链表](https://github.com/1273545169/Leetcode/blob/master/114.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md)
 
 - [平衡二叉树](https://github.com/1273545169/Course_notes/blob/master/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
  
