@@ -125,7 +125,7 @@
   
   - [174、地下城游戏](https://github.com/1273545169/Leetcode/blob/master/174%E3%80%81%E5%9C%B0%E4%B8%8B%E5%9F%8E%E6%B8%B8%E6%88%8F.md)
 
-  -[76. 最小覆盖子串](https://github.com/1273545169/Leetcode/blob/master/76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
+  - [76. 最小覆盖子串](https://github.com/1273545169/Leetcode/blob/master/76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
   
 ### DFS
   
