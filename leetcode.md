@@ -73,6 +73,8 @@
  - [101. 对称二叉树](https://github.com/1273545169/Leetcode/blob/master/101.%20%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 - [平衡二叉树](https://github.com/1273545169/Course_notes/blob/master/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
+- []()
  
  ### 栈、队列、堆
  
@@ -126,6 +128,8 @@
   - [174、地下城游戏](https://github.com/1273545169/Leetcode/blob/master/174%E3%80%81%E5%9C%B0%E4%B8%8B%E5%9F%8E%E6%B8%B8%E6%88%8F.md)
 
   - [76. 最小覆盖子串](https://github.com/1273545169/Leetcode/blob/master/76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
+
+  - [42. 接雨水](https://github.com/1273545169/Leetcode/blob/master/42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
   
 ### DFS
   
