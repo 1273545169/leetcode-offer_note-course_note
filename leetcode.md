@@ -106,6 +106,8 @@
   ### 动态规划
   
   - [连续子数组的最大和](https://github.com/1273545169/offer-note/blob/master/%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)
+
+  - [乘积最大子数组](https://github.com/1273545169/Leetcode/blob/master/152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%88%97.md)
   
   - [674、最长连续递增序列](https://github.com/1273545169/Leetcode/blob/master/674%E3%80%81%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.md)
   
