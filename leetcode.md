@@ -154,6 +154,8 @@
 ### 双指针
 
 - [11、盛最多水的容器](https://github.com/1273545169/Leetcode/blob/master/11%E3%80%81%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
+
+- [15、三数之和](https://github.com/1273545169/Leetcode/blob/master/15.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
   
  ### 位运算
   
