@@ -26,6 +26,8 @@
 
 - [连续子数组问题](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E9%95%BF%E5%BA%A6.md)
 
+- [20、有效的括号](https://github.com/1273545169/Leetcode/blob/master/20%E3%80%81%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+
 ### 链表
 
 - [反转单向或双向链表](https://github.com/1273545169/Course_notes/blob/master/%E5%8F%8D%E8%BD%AC%E5%8D%95%E5%90%91%E6%88%96%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
