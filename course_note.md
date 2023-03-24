@@ -71,10 +71,6 @@
    
    - [汉诺塔问题](https://github.com/1273545169/Course_notes/blob/master/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98.md)
    
-   - [字符串的组合/字符串的全部子序列](https://github.com/1273545169/Course_notes/blob/master/%E5%AD%97%E7%AC%A6%E7%9A%84%E7%BB%84%E5%90%88.md)
-   
-   - [字符串的全排列](https://github.com/1273545169/offer-note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
-   
    - [母牛问题](https://github.com/1273545169/Course_notes/blob/master/%E6%AF%8D%E7%89%9B%E9%97%AE%E9%A2%98.md)
    
   ### [暴力递归改动态规划](https://github.com/1273545169/Course_notes/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
