@@ -88,6 +88,8 @@
  
  ### 栈、队列、堆
  
+  - [用两个栈实现队列](https://github.com/1273545169/offer-note/blob/master/%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
+ 
   - [225、用队列实现栈](https://github.com/1273545169/Leetcode/blob/master/225%E3%80%81%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 
   - [224、基本计算器](https://github.com/1273545169/Leetcode/blob/master/224%E3%80%81%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8.md)
