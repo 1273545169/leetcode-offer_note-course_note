@@ -24,7 +24,7 @@
 
 - [3、无重复字符的最长子串](https://github.com/1273545169/Leetcode/blob/master/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 
-- [子数组和为aim的最长子数组](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E9%95%BF%E5%BA%A6.md)
+- [连续子数组问题](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E9%95%BF%E5%BA%A6.md)
 
 ### 链表
 
