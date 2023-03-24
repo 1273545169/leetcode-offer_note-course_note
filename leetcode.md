@@ -56,6 +56,8 @@
  
  - [二叉树的遍历](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86.md)
 
+- [按之字顺序打印二叉树](https://github.com/1273545169/offer-note/blob/master/%E6%8C%89%E4%B9%8B%E5%AD%97%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
  - [105. 从前序与中序遍历序列构造二叉树](https://github.com/1273545169/offer-note/blob/master/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)
  
  - [98、搜索二叉树](https://github.com/1273545169/Course_notes/blob/master/%E6%90%9C%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91.md)
