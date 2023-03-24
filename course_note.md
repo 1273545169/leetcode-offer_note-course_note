@@ -22,8 +22,6 @@
 
 - [数组实现固定大小的队列和栈](https://github.com/1273545169/Course_notes/blob/master/%E6%95%B0%E7%BB%84%E5%AE%9E%E7%8E%B0%E5%9B%BA%E5%AE%9A%E5%A4%A7%E5%B0%8F%E7%9A%84%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88.md)
 
-- [返回栈中最小元素](https://github.com/1273545169/Course_notes/blob/master/%E8%BF%94%E5%9B%9E%E6%A0%88%E4%B8%AD%E6%9C%80%E5%B0%8F%E5%85%83%E7%B4%A0.md)
-
 ### 矩阵问题
 
 - [旋转正方形矩阵](https://github.com/1273545169/Course_notes/blob/master/%E6%97%8B%E8%BD%AC%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9F%A9%E9%98%B5.md)
