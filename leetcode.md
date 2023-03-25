@@ -154,6 +154,8 @@
   - [42. 接雨水](https://github.com/1273545169/Leetcode/blob/master/42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
 
   - [62. 不同路径](https://github.com/1273545169/Leetcode/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
+
+  - [55. 跳跃游戏](https://github.com/1273545169/Leetcode/blob/master/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
   
 ### DFS
   
