@@ -55,6 +55,8 @@
  - [删除链表中的重复节点](https://github.com/1273545169/offer-note/blob/master/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E8%8A%82%E7%82%B9.md)
 
  - [25. K 个一组翻转链表](https://github.com/1273545169/Leetcode/blob/master/25.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+
+ - [143.重排链表](https://github.com/1273545169/Leetcode/blob/master/143.%20%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md)
  
  ### 二叉树
  
