@@ -172,6 +172,10 @@
  ### 位运算
   
   - [9、回文数](https://github.com/1273545169/Leetcode/blob/master/9%E3%80%81%E5%9B%9E%E6%96%87%E6%95%B0.md)
+
+  - [2. 两数相加](https://github.com/1273545169/Leetcode/blob/master/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
+
+  - [415. 字符串相加](https://github.com/1273545169/Leetcode/blob/master/415.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.md)
   
   ### 其他
   
