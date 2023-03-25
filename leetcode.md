@@ -184,3 +184,5 @@
    - [LRU缓存结构](https://github.com/1273545169/course_note/blob/master/LRU%E7%BC%93%E5%AD%98%E7%BB%93%E6%9E%84.md)
 
    - [寻找两个正序数组的中位数](https://github.com/1273545169/Leetcode/blob/master/4.%20%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md)
+
+   - [56. 合并区间](https://github.com/1273545169/Leetcode/blob/master/56.%20%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md)
