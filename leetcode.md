@@ -194,3 +194,11 @@
    - [56. 合并区间](https://github.com/1273545169/Leetcode/blob/master/56.%20%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md)
 
   - [31. 下一个排列](https://github.com/1273545169/Leetcode/blob/master/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
+
+### 回溯算法
+
+ - [字符串的排列](https://github.com/1273545169/offer-note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
+ 
+ - [字符的组合](https://github.com/1273545169/offer-note/blob/master/%E5%AD%97%E7%AC%A6%E7%9A%84%E7%BB%84%E5%90%88.md)
+
+ - [括号生成](https://github.com/1273545169/Leetcode/blob/master/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
