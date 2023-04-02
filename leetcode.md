@@ -201,6 +201,10 @@
 
   - [470. 用 Rand7() 实现 Rand10()](https://github.com/1273545169/Leetcode/blob/master/470.%20%E7%94%A8%20Rand7()%20%E5%AE%9E%E7%8E%B0%20Rand10().md)
 
+  - [14. 最长公共前缀](https://github.com/1273545169/Leetcode/blob/master/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
+
+  - [128. 最长连续序列](https://github.com/1273545169/Leetcode/blob/master/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)
+
 ### 回溯算法
 
  - [字符串的排列](https://github.com/1273545169/offer-note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
