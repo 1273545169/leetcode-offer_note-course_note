@@ -156,6 +156,8 @@
   - [62. 不同路径](https://github.com/1273545169/Leetcode/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
 
   - [55. 跳跃游戏](https://github.com/1273545169/Leetcode/blob/master/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
+
+  - [198. 打家劫舍](https://github.com/1273545169/Leetcode/blob/master/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
   
 ### DFS
   
@@ -174,6 +176,8 @@
 - [11、盛最多水的容器](https://github.com/1273545169/Leetcode/blob/master/11%E3%80%81%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
 
 - [15、三数之和](https://github.com/1273545169/Leetcode/blob/master/15.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+
+- [283. 移动零](https://github.com/1273545169/Leetcode/blob/master/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
   
  ### 位运算
   
@@ -210,3 +214,5 @@
  - [17. 电话号码的字母组合](https://github.com/1273545169/Leetcode/blob/master/17.%20%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
 
  - [93. 复原 IP 地址](https://github.com/1273545169/Leetcode/blob/master/93.%20%E5%A4%8D%E5%8E%9F%20IP%20%E5%9C%B0%E5%9D%80.md)
+
+ - [39. 组合总和](https://github.com/1273545169/Leetcode/blob/master/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
