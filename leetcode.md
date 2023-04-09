@@ -50,6 +50,8 @@
 
  - [链表中倒数第k个节点](https://github.com/1273545169/offer-note/blob/master/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 
+ - [61. 旋转链表](https://github.com/1273545169/Leetcode/blob/master/61.%20%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+
  - [23、合并K个排序链表](https://github.com/1273545169/Leetcode/blob/master/%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
  
  - [148、排序链表](https://github.com/1273545169/Leetcode/blob/master/148%E3%80%81%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
