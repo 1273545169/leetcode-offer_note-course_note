@@ -209,6 +209,8 @@
 
   - [128. 最长连续序列](https://github.com/1273545169/Leetcode/blob/master/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)
 
+  - [数组中出现次数超过数组一半的数](https://github.com/1273545169/offer-note/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E6%95%B0%E7%BB%84%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0.md)
+
 ### 回溯算法
 
  - [字符串的排列](https://github.com/1273545169/offer-note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
@@ -224,3 +226,9 @@
  - [93. 复原 IP 地址](https://github.com/1273545169/Leetcode/blob/master/93.%20%E5%A4%8D%E5%8E%9F%20IP%20%E5%9C%B0%E5%9D%80.md)
 
  - [39. 组合总和](https://github.com/1273545169/Leetcode/blob/master/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
+
+### 原地哈希
+
+- [数组中重复的数](https://github.com/1273545169/offer-note/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0.md)
+
+- [41. 缺失的第一个正数](https://github.com/1273545169/Leetcode/blob/master/41.%20%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.md)
