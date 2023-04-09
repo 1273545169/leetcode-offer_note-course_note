@@ -28,8 +28,6 @@
 
 - [连续子数组问题](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E9%95%BF%E5%BA%A6.md)
 
-- [20、有效的括号](https://github.com/1273545169/Leetcode/blob/master/20%E3%80%81%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
-
 ### 链表
 
 - [反转单向或双向链表](https://github.com/1273545169/Course_notes/blob/master/%E5%8F%8D%E8%BD%AC%E5%8D%95%E5%90%91%E6%88%96%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
@@ -95,6 +93,8 @@
 - [平衡二叉树](https://github.com/1273545169/Course_notes/blob/master/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 - [124. 二叉树中的最大路径和](https://github.com/1273545169/Leetcode/blob/master/124.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md)
+
+- [337. 打家劫舍 III](https://github.com/1273545169/Leetcode/blob/master/337.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20III.md)
  
  ### 栈、队列、堆
  
@@ -112,6 +112,9 @@
   
   - [1047、删除字符串中的无重复子串](https://github.com/1273545169/Leetcode/blob/master/1047%E3%80%81%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%90%E4%B8%B2.md)
   
+  - [20、有效的括号](https://github.com/1273545169/Leetcode/blob/master/20%E3%80%81%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+
+  - [32. 最长有效括号](https://github.com/1273545169/Leetcode/blob/master/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
   
   ### 动态规划
   
